@@ -7,6 +7,11 @@
             "azhar\\helloworld\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "azhar\\helloworld\\Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "azhar416",
@@ -14,6 +19,7 @@
         }
     ],
     "require-dev": {
-        "orchestra/testbench": "^7.4"
+        "orchestra/testbench": "^7.4",
+        "phpunit/phpunit": "^9.5"
     }
 }

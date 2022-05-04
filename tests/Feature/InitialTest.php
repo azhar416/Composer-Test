@@ -1,6 +1,5 @@
 <?php
 namespace azhar\helloworld\Tests;
-use Orchestra\Testbench\TestCase;
 
 class InitialTest extends TestCase
 {

@@ -1,7 +1,7 @@
 <?php
-    namespace Azhar416\ComposerTest;
+    namespace azhar\helloworld;
     
-    class Hello 
+    class HelloWorld
     {
         public function halo()
         {
